@@ -11,7 +11,7 @@ A simple yet powerful password generator with a graphical user interface built u
 
 ## 🖥️ Demo
 
-![Password Generator GUI](https://user-images.githubusercontent.com/your-image-if-you-upload-one.png)
+![Password Generator GUI](https://raw.githubusercontent.com/louisboii747/Strong-Password-Generator-GUI/refs/heads/main/demo.gif)
 
 ## 🧰 Requirements
 
