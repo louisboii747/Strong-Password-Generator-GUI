@@ -22,7 +22,7 @@ A simple yet powerful password generator with a graphical user interface built u
 
 1. Download the script:
    ```bash
-   git clone https://github.com/louisboii747/Strong-Password-Generator-Gui.git
+   git clone https://github.com/louisboii747/Strong-Password-Generator-GUI.git
    cd password-generator-gui
    ```
 
