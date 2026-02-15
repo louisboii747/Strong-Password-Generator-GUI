@@ -42,4 +42,4 @@ This project is licensed under the MIT License.
 
 ---
 
-> Created by [Louis Hinchliffe](https://github.com/louisboii747) ❤️
+> Created by [Louis](https://github.com/louisboii747) ❤️
